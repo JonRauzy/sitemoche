@@ -1,0 +1,24 @@
+.tab {
+  width: fit-content;
+  margin: auto;
+}
+
+table,
+td,
+th,
+tr {
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 10px;
+}
+
+td,
+th {
+  width: 100px;
+}
+
+.gros {
+  border: 4px solid black;
+  background-color: #bbbbbb;
+}
